@@ -15,7 +15,7 @@ function ExpenseContainer({
           <label htmlFor="bill">Bill</label>
           <input className = "input-field-bill"
             type="text"
-            className="input-bill"
+            // className="input-bill"
             id="bill"
             name="bill"
             placeholder="Kindly enter your Bills"
@@ -30,7 +30,7 @@ function ExpenseContainer({
           <label htmlFor="amount">Amount</label>
           <input className = "input-field-bill"
             type="number"
-            className="input-amount"
+            // className="input-amount"
             id="amount"
             name="amount"
             placeholder="Kindly enter the amount"
